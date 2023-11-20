@@ -4,9 +4,9 @@
 
 ## Table of Contents
 
-* [General Info](#general-information)
-* [Conclusions](#technologies-used)
-* [Technology Used](#conclusions)
+- General Information
+- Conclusions
+- Software Used
   
 
 <!-- You can include any other section that is pertinent to your problem -->
